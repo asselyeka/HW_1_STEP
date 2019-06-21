@@ -12,7 +12,6 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Assel Moldasheva");
             Console.ReadKey();
-
         }
     }
 }
